@@ -1,0 +1,3 @@
+[submodule "WFSR-Collector"]
+	path = WFSR-Collector
+	url = git@github.com:myroslav-yelechko/WFSR-Collector.git
